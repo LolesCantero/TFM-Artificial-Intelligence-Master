@@ -1,0 +1,12 @@
+# Checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos compilados de Python
+__pycache__/
+
+# Archivos específicos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local del editor
+.vscode/
